@@ -1,0 +1,11 @@
+:root {
+    --main-background-color: hsl(0, 0%, 98%);
+}
+
+body {
+    background: var(--main-background-color);
+}
+
+.image-source {
+    background: #fff;
+}

@@ -1,0 +1,19 @@
+.basket-content .no-product .icon .count {
+    /* background: hsla(200, 100%, 46%, 1); */
+    background: #000;
+    color: #fff;
+}
+
+.basket-content .no-product .text {
+    background: #fff;
+}
+
+.basket-content .state.success .text {
+    color: hsla(140, 100%, 10%, 1);
+    background: hsla(140, 100%, 30%, .25);
+}
+
+.basket-content .state.error .text {
+    color: hsla(8, 100%, 40%, 1);
+    background: hsla(8, 100%, 60%, .25);
+}
